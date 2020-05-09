@@ -1,7 +1,11 @@
 {
-	"appID": "WHC2W7CWNU.com.fanbo.qmtk123",    
-	"paths": ["/sdksample/*"],
-    "webcredentials":{
-        "apps":["WHC2W7CWNU.com.fanbo.qmtk123"]
-    }
+  "appID": "WHC2W7CWNU.com.fanbo.qmtk123", 
+  "paths": [
+    "/sdksample/*"
+  ], 
+  "webcredentials": {
+    "apps": [
+      "WHC2W7CWNU.com.fanbo.qmtk123"
+    ]
+  }
 }
